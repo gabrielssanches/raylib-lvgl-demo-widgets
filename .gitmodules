@@ -1,0 +1,11 @@
+[submodule "lvgl"]
+	path = lvgl
+    url = https://github.com/lvgl/lvgl.git
+	branch = release/v9.2
+[submodule "raylib"]
+	path = raylib
+	url = https://github.com/raysan5/raylib.git
+    branch = 5.0 
+[submodule "lv_raylib"]
+	path = lv_raylib
+	url = https://github.com/gabrielssanches/lv_raylib.git
